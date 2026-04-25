@@ -155,7 +155,8 @@ DICOM | Radiologia | AI Systems
 
 ## 🌐 Contato
 
-📸 Instagram: @dr_rda## Hi there 👋
+📸 ## Hi there
+👋 Email
 
 <!--
 **Ra855-wq/Ra855-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
